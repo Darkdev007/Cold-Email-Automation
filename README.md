@@ -4,7 +4,7 @@ Automates cold email outreach by scraping company data from websites, generating
 
 **What it does:**
 1. 🕷️ Scrapes company names, descriptions, and emails from target websites
-2. 🤖 Generates personalized cold emails based on the descriptions using Groq AI
+2. 🤖 Generates personalized cold emails based on the descriptions using llama-3.3-70b-versatile model from Groq AI
 3. 📧 Sends emails via SMTP (Gmail)
 4. ✅ Lets you review all emails before sending
 
